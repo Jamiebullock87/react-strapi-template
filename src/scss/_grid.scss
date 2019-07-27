@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+  grid-gap: var(--grid-gap);
+  grid-template-columns: repeat(1, 100%);
+}
+.grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+.grid-3 { 
+  grid-template-columns: repeat(3, 1fr);
+}
+.grid-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
