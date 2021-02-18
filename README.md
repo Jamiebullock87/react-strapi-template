@@ -1,3 +1,5 @@
+A Barebones template for a react app to use with apollo, graphql and strapi cms.
+
 # How to use this
 
 This is to help quickly get started when building a new strapi based react app with apollo and graphql.
